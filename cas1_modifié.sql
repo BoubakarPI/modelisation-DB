@@ -4,7 +4,7 @@ CREATE TABLE Proprietaire (
     TypeN VARCHAR(20)
 );
 
--- Table pour les particuliers
+-- Table pour les particuliers !
 CREATE TABLE Particulier
 (
     idP INT PRIMARY KEY,
